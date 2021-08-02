@@ -15,54 +15,6 @@
             "paths":[
                "*"
             ]
-         },
-         {
-            "appID":"3TS7T7V375.com.itau.personnalite.enterprise",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"FWR8CJ7249.com.itau.iphone.personnalite",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"3TS7T7V375.com.itau.empresas.enterprise",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"FWR8CJ7249.com.itau.empresa",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"3TS7T7V375.com.itau.cartoes.itaucard",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"FWR8CJ7249.com.itau.itaucard",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"3TS7T7V375.com.itau.cartoes.magazineluiza.enterprise",
-            "paths":[
-               "*"
-            ]
-         },
-         {
-            "appID":"FWR8CJ7249.com.itau.magalu",
-            "paths":[
-               "*"
-            ]
          }
       ]
    }
