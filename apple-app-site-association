@@ -7,61 +7,61 @@
          {
             "appID":"3TS7T7V375.com.itau.enterprise",
             "paths":[
-               "/opbconsentimento/mobilepf"
+               "*"
             ]
          },
          {
             "appID":"FWR8CJ7249.com.itau.iphone.varejo",
             "paths":[
-               "/opbconsentimento/mobilepf"
+               "*"
             ]
          },
          {
             "appID":"3TS7T7V375.com.itau.personnalite.enterprise",
             "paths":[
-               "/opbconsentimento/mobilepfperson"
+               "*"
             ]
          },
          {
             "appID":"FWR8CJ7249.com.itau.iphone.personnalite",
             "paths":[
-               "/opbconsentimento/mobilepfperson"
+               "*"
             ]
          },
          {
             "appID":"3TS7T7V375.com.itau.empresas.enterprise",
             "paths":[
-               "/opbconsentimento/mobilepj"
+               "*"
             ]
          },
          {
             "appID":"FWR8CJ7249.com.itau.empresa",
             "paths":[
-               "/opbconsentimento/mobilepj"
+               "*"
             ]
          },
          {
             "appID":"3TS7T7V375.com.itau.cartoes.itaucard",
             "paths":[
-               "/opbconsentimento/itaucard"
+               "*"
             ]
          },
          {
             "appID":"FWR8CJ7249.com.itau.itaucard",
             "paths":[
-               "/opbconsentimento/itaucard"
+               "*"
             ]
          },
          {
             "appID":"3TS7T7V375.com.itau.cartoes.magazineluiza.enterprise",
             "paths":[
-               "/opbconsentimento/cartaoluiza"
+               "*"
             ]
          },
          {
             "appID":"FWR8CJ7249.com.itau.magalu",
             "paths":[
-               "/opbconsentimento/cartaoluiza"
+               "*"
             ]
          }
       ]
